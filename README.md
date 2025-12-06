@@ -51,6 +51,7 @@ A Power BI dashboard (`likedin.pbix`) is included for interactive analysis of:
 ## 📜 License
 This project is released under the MIT License.
 
+## Images
 ![WhatsApp Image 2025-12-06 at 02 30 28_d87d1aef](https://github.com/user-attachments/assets/4c0caef3-abcd-4530-8fb0-8074908c1c34)
 ![WhatsApp Image 2025-12-06 at 02 30 28_86c80760](https://github.com/user-attachments/assets/97d88f32-c0e8-4494-8bfb-713dae216e42)
 ![WhatsApp Image 2025-12-06 at 02 30 28_1bc1112c](https://github.com/user-attachments/assets/7ab2b088-890b-4aff-9b1d-8cf9238006ec)
